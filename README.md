@@ -1,28 +1,20 @@
-<div align="center">
-  
-## Sobre mí
-Estudiante de Ingeniería en Ciberseguridad con interés en análisis forense digital y pruebas de vulnerabilidades. Experiencia básica en análisis de páginas web, detección de fallos y uso de HTML/CSS. En constante aprendizaje de herramientas y técnicas de seguridad informática, con enfoque en la protección de sistemas y análisis de incidentes.
+# Hola, mi nombre es Junior
 
--------------------
+## 🚀 Sobre mí
+- 🎓 Estudiante de Ciberseguridad
+- 💻 Interesado en ciberseguridad / desarrollo web / etc.
+- 📍 Ubicación: Lima, perú
+- 📚 Actualmente aprendiendo: Seguridad en la red
 
-## Contactos
-<a href="https://www.instagram.com/LachlanDev/">![Instagram](https://img.shields.io/badge/LachlanDev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> <a href="[https://Linkedin.com/LachlanDev](https://www.linkedin.com/in/isaac-ramos-sulca-89a6a0374/)">![Linkedin](https://img.shields.io/badge/LachlanDev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+---
 
--------------------
+## 📫 Contacto
+- ✉️ Email: isaaco1804@gmail.com
+- Telefono: 906-302-632
+---
 
-### Languages and Tools  
+## ⚡ conoceme
+-me gusta realizar deporte, me interesa la jardineria y gastronomia
+---
 
-insertar aun
-  
--------------------
-  
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=LachlanDev&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=LachlanDev&theme=radical&include_all_commits=true&count_private=true)
-
- <div>
-
------
-Credits: [LachlanDev](https://github.com/LachlanDev)
-
-Last Edited on: 07/04/2026
+⭐ Gracias por visitar mi perfil
